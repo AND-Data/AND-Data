@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, my name is Andre. I'm a data analyst at a company in the electrical sectory. I love to travel and read.
+Hi, my name is Andre. I'm a data engineer at Globo. I love to travel and read.
 
 ## Languages
 
